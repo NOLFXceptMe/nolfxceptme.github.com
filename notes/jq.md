@@ -3,7 +3,7 @@ permalink: /notes/jq
 title: jq
 layout: note
 ---
-###Remove keys present in another file
+### Remove keys present in another file
 <br>
 
 ```shell
